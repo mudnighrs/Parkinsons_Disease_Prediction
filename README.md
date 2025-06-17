@@ -39,7 +39,7 @@ This project involves the development of a robust machine learning model for ear
 
 ##  Project Report
 
-You can view the full project report [here](https://drive.google.com/file/d/1TzLg6dp-fkOM3X05tUY__EGTzk6fgrou/view?usp=sharing).
+You can view the  project report [here](https://drive.google.com/file/d/1TzLg6dp-fkOM3X05tUY__EGTzk6fgrou/view?usp=sharing).
 
 ---
 
@@ -52,7 +52,3 @@ You can view the full project report [here](https://drive.google.com/file/d/1TzL
 
 ---
 
-
-
-Project Report:- https://drive.google.com/file/d/1TzLg6dp-fkOM3X05tUY__EGTzk6fgrou/view?
-usp=sharing
